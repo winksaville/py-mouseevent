@@ -1,0 +1,4 @@
+__pycache__/
+mouseevent.egg-info/
+*.pyc
+.vscode
